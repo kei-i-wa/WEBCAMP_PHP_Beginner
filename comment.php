@@ -1,2 +1,5 @@
 <?php
-echo "comment test \n";
+//ここはコメントです
+echo "comment test \n";//ここもコメントです
+
+#ここにもコメント
