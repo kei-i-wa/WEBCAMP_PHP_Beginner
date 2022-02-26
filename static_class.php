@@ -15,4 +15,4 @@ class Hoge
 //
 Hoge::静的なメソッド();
 Hoge::set静的プロパティ("set string");
-echo Hoge::get静的プロパティ(),"\n";
+// echo Hoge::get静的プロパティ(),"\n";
